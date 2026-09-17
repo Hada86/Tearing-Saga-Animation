@@ -1,10 +1,10 @@
 <p align="center"><img src="total.svg" alt="total"></p>
 
-# TEARRING SAGA
-## World Map
+# ⚜TEARRING SAGA⚜
+## ⚔︎World Map⚔︎
 <p align="center"><img src="Tearring Saga/G/AMAP.png" alt="AMAP"></p>
 
-## Battle Map
+## ⚔︎Battle Map⚔︎
 ### Map 1
 <img src="Tearring Saga/BM1/BM01.png" alt="MAP01" width="35%">
 
@@ -32,7 +32,7 @@
 ### Map 9
 <img src="Tearring Saga/BM1/BM09.png" alt="MAP09" width="35%">
 
-# BERWICK SAGA
+# ⚜BERWICK SAGA⚜
 
 
 
