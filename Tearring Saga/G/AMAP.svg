@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="720" width="960">
+	<style>
+		text:hover {
+		opacity: 1;
+		}
+	</style>
+	<defs>
+		<image id="amap" href="Tearing Saga/G/AMAP.png"/>
+		<g id="pointmap">
+			<circle r="3" stroke="#FFFFFFFF" fill="#00FF00FF"/>
+			<animate
+            attributeName="opacity" 
+            values="1;1;0;0"
+			dur="3s"
+			repeatCount="indefinite" 
+			keyTimes="0; .5;.8; 1"/>
+		</g>
+	</defs>
+	<use href="#amap"/>	
+	<use  x="390" y="520" href="#pointmap"/>
+	<text x="390" y="520" text-anchor="middle" fill="white" opacity="0">Cảng Sora</text>
+	<use  x="435" y="585" href="#pointmap"/>
+	<text x="435" y="585" text-anchor="middle" fill="white" opacity="0">Thành Verge</text>
+	<use  x="450" y="615" href="#pointmap"/>
+	<text x="450" y="615" text-anchor="middle" fill="white" opacity="0">Làng Doras</text>
+	<use  x="420" y="625" href="#pointmap"/>
+	<text x="420" y="625" text-anchor="middle" fill="white" opacity="0">Động Doras</text>
+	<use  x="345" y="560" href="#pointmap"/>
+	<text x="345" y="560" text-anchor="middle" fill="white" opacity="0">Thành Gram</text>
+	<use  x="300" y="625" href="#pointmap"/>
+	<text x="300" y="625" text-anchor="middle" fill="white" opacity="0">Cung Welt</text>
+	<use  x="290" y="575" href="#pointmap"/>
+	<text x="290" y="575" text-anchor="middle" fill="white" opacity="0">Làng Lot</text>
+	<use  x="325" y="535" href="#pointmap"/>
+	<text x="325" y="535" text-anchor="middle" fill="white" opacity="0">Đền Mars</text>
+	<use  x="235" y="550" href="#pointmap"/>
+	<text x="235" y="550" text-anchor="middle" fill="white" opacity="0">Cảng Mars</text>
+	<use  x="235" y="550" href="#pointmap"/>
+	<text x="235" y="550" text-anchor="middle" fill="white" opacity="0">Cảng Mars</text>
+</svg>
