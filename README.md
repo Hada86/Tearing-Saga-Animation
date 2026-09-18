@@ -2,7 +2,7 @@
 
 # ⚜TEARRING SAGA⚜
 ## ⚔︎World Map⚔︎
-<p align="center"><img src="Tearring Saga/G/AMAP.png" alt="AMAP"></p>
+<p align="center"><img src="Tearring Saga/G/AMAP.svg" alt="AMAP"></p>
 
 ## ⚔︎Battle Map⚔︎
 ### Map 1
